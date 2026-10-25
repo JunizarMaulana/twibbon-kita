@@ -1,0 +1,5 @@
+# Generated deployment package
+*.tar.gz
+
+# Local preview files
+.sites-runtime/
